@@ -31,3 +31,9 @@ Here is more facts about me in the form of an unordered list
 Here is more facts in an ordered list
 1. I like anime (unfortanate)
 2. I do enjoy cosplaying
+
+Here are somethings I do day to day
+- [x] wake up (unlucky)
+- [ ] go to class 
+- [ ] practice dancing
+- [ ] homework
