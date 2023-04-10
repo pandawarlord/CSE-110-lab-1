@@ -21,4 +21,4 @@ Here's a pic of a KPOOOP group that I like called Dreamcatcher
 
 ![image](https://cdn.discordapp.com/attachments/827404602613432321/1062648857420382259/20221228_221641.jpg)
 
-here is a relative link [readme](readme.md)
+here is a relative link [readme](README.md)
