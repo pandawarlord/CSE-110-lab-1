@@ -16,3 +16,9 @@ I life heavy weight
 Another thing is that in my freetime I play pokemon online [here](https://play.pokemonshowdown.com/)
 
 [here's a section link lolz](https://github.com/pandawarlord/CSE-110-lab-1/new/main#everything-you-need-to-know-about-the-boi)
+
+Here's a pic of a KPOOOP group that I like called Dreamcatcher
+
+![image](https://cdn.discordapp.com/attachments/827404602613432321/1062648857420382259/20221228_221641.jpg)
+
+here is a relative link [readme](readme.md)
